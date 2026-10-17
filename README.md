@@ -96,7 +96,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Shovon**
 - GitHub: [@ShovonScripts](https://github.com/ShovonScripts)
-- Portfolio: [Your Website](https://yourwebsite.com) *(Update this)*
 
 ## 🙏 Acknowledgments
 
