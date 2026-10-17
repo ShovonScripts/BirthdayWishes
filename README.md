@@ -1,8 +1,4 @@
-Here is a **perfect README.md** for your **BirthdayWishes** repo.
 
-Copy this entire code and paste it into your `README.md` file:
-
-```markdown
 # 🎂 Birthday Wishes 🎉
 
 [![GitHub stars](https://img.shields.io/github/stars/ShovonScripts/BirthdayWishes?style=social)](https://github.com/ShovonScripts/BirthdayWishes)
@@ -120,5 +116,3 @@ git add README.md
 git commit -m "Add perfect README"
 git push origin main
 ```
-
-Want me to customize any section (like adding your actual demo link or specific features)?
